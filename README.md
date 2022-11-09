@@ -1,9 +1,12 @@
 # IntroToGitHubOct26
 
-Repository for Intro to GitHub Workshop
+Repository for **Making Free Webpages**
 
+![Man with lizard on shoulder](Daniel_Headshot_Library_Reduced.jpg)
 
-What is your favorite animal?
+Click the link to go to Google [GO TO GOOGLE](https://www.google.ca)
+
+What is your *favorite animal?*
 
 - Bichon Frise
 - 
