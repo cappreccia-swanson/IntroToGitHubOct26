@@ -1,4 +1,4 @@
-# IntroToGitHubOct26
+# Making Webpages Nov 9th
 
 Repository for **Making Free Webpages**
 
